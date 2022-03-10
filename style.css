@@ -57,3 +57,33 @@ button:hover {
     border: solid 3px rgb(218, 218, 218);
     color: rgb(255, 255, 255);
 }
+
+.counter {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    font-weight: 700;
+    padding-top: 2.7rem;
+    font-size: 50px;
+    color: #cccccc;
+}
+
+#color {
+    color: #2ee4d5;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #9b9b9b;
+    background-color: #1b1b1b;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+}
